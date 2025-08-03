@@ -29,8 +29,8 @@ NutriSense AI is a **Generative Agentic AI-powered assistant** designed to provi
 ## 📷 Screenshots
 *(Add your screenshots in an `images` folder and rename them accordingly)*
 
-![Demo Output 1](images/demo_output_1.png)  
-![Demo Output 2](images/demo_output_2.png)
+![Demo Output 1](IMAGES/demo_output_1.png)  
+![Demo Output 2](IMAGES/demo_output_2.png)
 
 ---
 
@@ -49,3 +49,4 @@ D Y Patil International University – Department of Computer Science
 ---
 
 © 2025 Shivprasad Supane. This project is created for academic purposes only.
+
