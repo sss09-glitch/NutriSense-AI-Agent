@@ -86,7 +86,7 @@ NutriSense AI leverages **IBM Watsonx.ai Agent Lab** and **Granite LLM** to offe
 ![Preview](IMAGES/demo_output_2.png)
 
 🔹 **Deployment**  
-![Deployment](IMAGES/depylment.png)
+![Deployment](IMAGES/Deployment.png)
 
 🔹 **API Reference**  
 ![API Reference](IMAGES/api's.png)
@@ -131,6 +131,7 @@ D Y Patil International University – Department of Computer Science
 
 This project is licensed under the **MIT License**.  
 For academic and educational purposes only.
+
 
 
 
